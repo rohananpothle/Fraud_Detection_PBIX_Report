@@ -60,9 +60,15 @@ destination accounts, and whether the transaction was fraud or not.
   
   3. All flagged transactions are of TRANSFER type.
   
-  4. The fraudulent activity peaked on Day 32 with ₹23M and 3 transactions.
+  4. The fraudulent activity peaked on Day 31 with ₹23M and 3 transactions.
   
   5. The trend shows low volume but high-value transfers, suggesting targeted fraud attempts rather than widespread activity.
+     
+  6. Fraudsters are not doing many small scams across many accounts (which would be widespread).
+     
+  7. Instead, they are focusing on fewer, bigger transactions—trying to extract large sums in a few attempts.
+
+
 
 
   # Reccomandations
